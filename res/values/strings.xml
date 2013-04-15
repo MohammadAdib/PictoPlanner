@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">PictoPlanner</string>
+    <string name="menu">Edit Classes</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string-array name="list">
+        <item>1-2) Cisco CCNP</item>
+        <item>3) AP Calculus</item>
+        <item>4) AP Physics</item>
+        <item>5) AP US History</item>
+        <item>6) AP Language Arts</item>
+        <item>7) Drawing and Painting</item>        
+        <item>Misc</item>
+    </string-array>
+    <color name="Grey">#EE0000</color>
+    <color name="White">#FFFFFF</color>
+
+</resources>
